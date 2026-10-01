@@ -1,0 +1,13 @@
+pandas
+openpyxl
+sqlalchemy
+psycopg2-binary
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+streamlit
+plotly
+pytest
+# Add your LLM provider SDK here, e.g. anthropic
